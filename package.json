@@ -1,0 +1,24 @@
+{
+  "name": "find-my-someone",
+  "version": "1.0.0",
+  "description": "An online tool to help people and authorities locate and connect people who are lost to their loved ones.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkanive/find-my-someone.git"
+  },
+  "author": "Jayanth Kanive",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkanive/find-my-someone/issues"
+  },
+  "homepage": "https://github.com/jkanive/find-my-someone#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
